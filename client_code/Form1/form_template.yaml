@@ -1,5 +1,13 @@
 components:
-- components: []
+- components:
+  - layout_properties: {grid_position: 'VLYJQQ,WOBSOD'}
+    name: outlined_1
+    properties: {role: outlined}
+    type: TextBox
+  - layout_properties: {grid_position: 'YAOBJU,GGKDTL'}
+    name: outlined_card_1
+    properties: {role: outlined-card}
+    type: ColumnPanel
   layout_properties: {slot: default}
   name: content_panel
   properties: {col_widths: '{}'}
